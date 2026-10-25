@@ -3,7 +3,9 @@ module gofindme
 go 1.26.0
 
 require (
+	charm.land/bubbles/v2 v2.2.1
 	charm.land/bubbletea/v2 v2.1.0
+	charm.land/lipgloss/v2 v2.0.6
 	golang.org/x/tools v0.52.0
 	modernc.org/sqlite v1.61.0
 )
