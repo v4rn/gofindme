@@ -3,6 +3,8 @@ package main
 import (
 	"fmt"
 	"os"
+
+	_ "charm.land/bubbletea/v2"
 )
 
 func main() {
